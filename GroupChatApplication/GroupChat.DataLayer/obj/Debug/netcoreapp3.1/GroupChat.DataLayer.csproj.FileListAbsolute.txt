@@ -1,0 +1,13 @@
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\obj\Debug\netcoreapp3.1\GroupChat.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\obj\Debug\netcoreapp3.1\GroupChat.DataLayer.AssemblyInfoInputs.cache
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\obj\Debug\netcoreapp3.1\GroupChat.DataLayer.AssemblyInfo.cs
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\obj\Debug\netcoreapp3.1\GroupChat.DataLayer.csproj.CoreCompileInputs.cache
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\bin\Debug\netcoreapp3.1\GroupChat.DataLayer.deps.json
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\bin\Debug\netcoreapp3.1\GroupChat.DataLayer.dll
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\bin\Debug\netcoreapp3.1\GroupChat.DataLayer.pdb
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\obj\Debug\netcoreapp3.1\GroupChat.DataLayer.csproj.AssemblyReference.cache
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\obj\Debug\netcoreapp3.1\GroupChat.DataLayer.dll
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\obj\Debug\netcoreapp3.1\GroupChat.DataLayer.pdb
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\bin\Debug\netcoreapp3.1\GroupChat.DataLayer.runtimeconfig.json
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\bin\Debug\netcoreapp3.1\GroupChat.DataLayer.runtimeconfig.dev.json
+D:\Personal\GroupChatApplication\GroupChat.DataLayer\obj\Debug\netcoreapp3.1\GroupChat.DataLayer.genruntimeconfig.cache

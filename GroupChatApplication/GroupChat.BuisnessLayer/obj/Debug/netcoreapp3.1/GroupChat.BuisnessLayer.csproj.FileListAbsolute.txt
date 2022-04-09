@@ -1,0 +1,16 @@
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\obj\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\obj\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.AssemblyInfoInputs.cache
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\obj\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.AssemblyInfo.cs
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\obj\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.csproj.CoreCompileInputs.cache
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\obj\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.csproj.AssemblyReference.cache
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\bin\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.deps.json
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\bin\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.dll
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\bin\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.pdb
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\bin\Debug\netcoreapp3.1\GroupChat.DataLayer.dll
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\bin\Debug\netcoreapp3.1\GroupChat.DataLayer.pdb
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\obj\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.csproj.CopyComplete
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\obj\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.dll
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\obj\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.pdb
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\bin\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.runtimeconfig.json
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\bin\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.runtimeconfig.dev.json
+D:\Personal\GroupChatApplication\GroupChat.BuisnessLayer\obj\Debug\netcoreapp3.1\GroupChat.BuisnessLayer.genruntimeconfig.cache
